@@ -65,10 +65,5 @@
 
 #### city.h
 * header that allows other files to use the function
-#### sources
-* https://www.tutorialspoint.com/c_standard_library/c_function_calloc.htm
-* Discord
-* https://stackoverflow.com/questions/4872976/is-there-any-opposite-of-newline-char
-* lecture slides
-* https://www.tutorialspoint.com/c_standard_library/string_h.htm
+
  
